@@ -33,7 +33,7 @@
     "@types/stream-buffers": "^3.0.3",
     "@types/unist": "^2.0.3",
     "@types/vfile": "^4.0.0",
-    "@typescript-eslint/parser": "^2.8.0",
+    "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^5.16.0",
     "eslint-plugin-github": "^2.0.0",
     "eslint-plugin-jest": "^22.21.0",
