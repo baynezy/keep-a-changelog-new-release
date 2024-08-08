@@ -22,7 +22,7 @@
   "dependencies": {
     "@actions/core": "^1.2.0",
     "@actions/exec": "^1.0.3",
-    "remark-parse": "^7.0.2",
+    "remark-parse": "^11.0.0",
     "remark-stringify": "^8.1.1",
     "stream-buffers": "^3.0.2",
     "unified": "^8.4.2"
