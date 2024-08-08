@@ -24,13 +24,13 @@
     "@actions/exec": "^1.0.3",
     "remark-parse": "^7.0.2",
     "remark-stringify": "^8.1.1",
-    "stream-buffers": "^3.0.2",
+    "stream-buffers": "^3.0.3",
     "unified": "^8.4.2"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
     "@types/node": "^12.7.12",
-    "@types/stream-buffers": "^3.0.3",
+    "@types/stream-buffers": "^3.0.7",
     "@types/unist": "^2.0.3",
     "@types/vfile": "^4.0.0",
     "@typescript-eslint/parser": "^2.8.0",
